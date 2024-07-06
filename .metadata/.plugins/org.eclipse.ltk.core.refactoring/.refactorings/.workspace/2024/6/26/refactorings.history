@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete resource &apos;Cw6_ternaryOp/ternaryOp&#x0A;ternaryOp&#x0A;ternaryOp.c&#x0A;&apos;" deleteContents="false" description="Delete resource &apos;Cw6_ternaryOp/ternaryOp&#x0A;ternaryOp&#x0A;ternaryOp.c&#x0A;&apos;" element1="/Cw6_ternaryOp/ternaryOp&#x0A;ternaryOp&#x0A;ternaryOp.c&#x0A;" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1719483591243"/>
-</session>
