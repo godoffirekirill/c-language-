@@ -1,0 +1,15 @@
+17:51:46 **** Incremental Build of configuration Debug for project myFirstProject ****
+make all 
+Building file: ../myFirstApp.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"myFirstApp.d" -MT"myFirstApp.o" -o "myFirstApp.o" "../myFirstApp.c"
+Finished building: ../myFirstApp.c
+ 
+Building target: myFirstProject
+Invoking: MacOS X C Linker
+gcc  -o "myFirstProject"  ./myFirstApp.o   
+Finished building target: myFirstProject
+ 
+
+17:51:46 Build Finished. 0 errors, 0 warnings. (took 140ms)
+

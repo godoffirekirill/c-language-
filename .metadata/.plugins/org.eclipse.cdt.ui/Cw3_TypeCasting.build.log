@@ -1,0 +1,15 @@
+19:45:45 **** Incremental Build of configuration Debug for project Cw3_TypeCasting ****
+make all 
+Building file: ../typeCast.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"typeCast.d" -MT"typeCast.o" -o "typeCast.o" "../typeCast.c"
+Finished building: ../typeCast.c
+ 
+Building target: Cw3_TypeCasting
+Invoking: MacOS X C Linker
+gcc  -o "Cw3_TypeCasting"  ./typeCast.o   
+Finished building target: Cw3_TypeCasting
+ 
+
+19:45:45 Build Finished. 0 errors, 0 warnings. (took 215ms)
+

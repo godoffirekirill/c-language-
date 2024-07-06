@@ -1,0 +1,6 @@
+10:37:09 **** Incremental Build of configuration Debug for project HwFunctionIn ****
+make all 
+make: Nothing to be done for `all'.
+
+10:37:09 Build Finished. 0 errors, 0 warnings. (took 75ms)
+

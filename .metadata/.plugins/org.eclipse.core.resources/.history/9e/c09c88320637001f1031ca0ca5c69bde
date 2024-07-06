@@ -1,0 +1,29 @@
+#include <stdio.h>
+
+	int main(){
+
+		int a = 10;
+		if(a >= 10) {
+			a = 5;
+				printf("%d\n",a);
+		}
+		printf("%d\n",a);
+
+	//	taxi(3);
+
+		return 0;
+	}
+
+	void taxi(int regNumber) {
+		// 1=> Vasya go 2 => saraa go 3 =. ambram go || give me another driver
+
+		if(regNumber < 1 || regNumber > 3) {
+			printf(" give me another driver\n");
+		}
+		if (regNumber == 1) {
+			printf("Vasya go\n");
+		}
+		if (regNumber == 2) {
+			printf("saraa go\n");
+		}
+	}

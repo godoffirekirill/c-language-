@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Hw7_IfCondirionOpers_if_Else/IfCondirionOpers_&apos; to &apos;IfCondirionOpers.c&apos;" description="Rename resource &apos;IfCondirionOpers_&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="IfCondirionOpers_" name="IfCondirionOpers.c" stamp="1719920859507" updateReferences="true"/>
+</session>
